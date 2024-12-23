@@ -1,0 +1,10 @@
+This is my retro photo gallery that i made with HTML,CSS,JS
+the html code have Titles , Pictures and Buttons
+i styled it with CSS and made it retro and modern at the same time
+i used js functions 
+-openLightbox()-
+-closeLightbox()-
+-setImage(index)-
+-next()-
+-prev()- and consts
+it have some retro old photos from mid-late 90 to early-late 2000s
